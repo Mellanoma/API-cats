@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "8b1dc7fd-3b02-4d8e-8854-1b8e725f985c",
+		"name": "Ararara",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://http.cat/[status_code]",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
